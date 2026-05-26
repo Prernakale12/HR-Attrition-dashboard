@@ -27,7 +27,7 @@ dashboard with 8 DAX measures.
 ## Dashboard Screenshots
 
 ### Page 1 — Executive Overview
-![Overview](Screenshots/Page1_Overview.png)
+[![Overview](https://github.com/Prernakale12/HR-Attrition-dashboard/blob/main/Screenshots/Page1%20Overview.png)
 
 ### Page 2 — Attrition Deep Dive
 ![Deep Dive](Screenshots/Page2_Deep_dive.png)
