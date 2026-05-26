@@ -30,16 +30,15 @@ dashboard with 8 DAX measures.
 [![Overview](https://github.com/Prernakale12/HR-Attrition-dashboard/blob/main/Screenshots/Page1%20Overview.png)
 
 ### Page 2 — Attrition Deep Dive
-![Deep Dive](Screenshots/Page2_Deep_dive.png)
+![Deep Dive](https://github.com/Prernakale12/HR-Attrition-dashboard/blob/main/Screenshots/Page2%20Deep%20dive.png)
 
 ### Page 3 — Department & Role View
-![Department View](Screenshots/Page3_Department.png)
+![Department View](https://github.com/Prernakale12/HR-Attrition-dashboard/blob/main/Screenshots/Page3%20Department.png)
 
 ## Tech Stack
 | Tool | Purpose |
 |------|---------|
 | Google Sheets | Data cleaning, calculated columns, Pivot Tables |
-| Google Apps Script |
 | Power BI DAX | 8 KPI measures, attrition rate, income analysis |
 | Power BI Report | 3-page interactive dashboard |
 | GitHub | Version control & project sharing |
